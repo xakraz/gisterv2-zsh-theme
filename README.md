@@ -1,6 +1,11 @@
-## gitster v2
+# gitster v2
 
 Gitster v2 is [oh-my-zsh](https://ohmyz.sh) theme for [z shell](https://www.zsh.org/) forked from the [original Gitster](https://github.com/robbyrussell/oh-my-zsh/wiki/External-themes#gitster).
+
+
+## Demo
+
+![Demo](./docs/demo.svg)
 
 ## Installation
 
