@@ -5,7 +5,7 @@ Gitster v2 is [oh-my-zsh](https://ohmyz.sh) theme for [z shell](https://www.zsh.
 
 ## Demo
 
-![Demo](./docs/demo.svg)
+[![asciicast](https://asciinema.org/a/264078.svg)](https://asciinema.org/a/264078)
 
 ## Installation
 
